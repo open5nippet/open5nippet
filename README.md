@@ -1,4 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ayush%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ayush%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:EDEDED,100:C084FC&text=Ayush%20Kumar&fontSize=60&fontColor=111111&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=111111&descAlignY=65"
+    />
+    <img
+      src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ayush%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65"
+      width="100%"
+      alt="Ayush Kumar banner"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=open5nippet">
@@ -6,7 +22,9 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+</p>
 
 ## 📌 About Me
 - 🔭 I’m currently working on AeroFleet, an AI-powered dashcam and fleet management platform.
@@ -15,13 +33,11 @@
 - 🤝 I’m looking for help with optimizing machine learning models for edge computing.
 - 💬 Ask me about Python, Data Science, and balancing startup development with my B.Tech!
 
-
 ## 🧠 My Focus Areas
 - Full-Stack Web Development
 - Artificial Intelligence & Data Science
 - Computer Vision
 - IoT & Hardware Prototyping
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -30,13 +46,14 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=open5nippet&theme=radical&hide_border=true&cache_seconds=86400" alt="open5nippet's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=open5nippet&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Kumar's GitHub Trophies" />
 </p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
 
 ## 🛠️ Languages & Tools
 
@@ -50,9 +67,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -65,7 +81,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
@@ -74,7 +89,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
 </p>
 
 <h3 align="center">Database</h3>
@@ -83,7 +97,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
@@ -93,7 +106,6 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
@@ -103,7 +115,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
 </p>
 
 <p align="center">
@@ -112,12 +123,9 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=open5nippet)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/ayush-kumar-tech">
+  <a href="https://www.linkedin.com/in/ayush-kumar-tech">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:ayush.main.16@gmail.com">
@@ -132,4 +140,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
