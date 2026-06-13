@@ -2,14 +2,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ayush%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:7c3aed&text=Ayush%20Kumar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:EDEDED,100:C084FC&text=Ayush%20Kumar&fontSize=60&fontColor=111111&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=111111&descAlignY=65"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F8FAFC,100:E9D5FF&text=Ayush%20Kumar&fontSize=56&fontColor=111111&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=111111&descAlignY=65"
     />
     <img
-      src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ayush%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65"
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:7c3aed&text=Ayush%20Kumar&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65"
       width="100%"
       alt="Ayush Kumar banner"
     />
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=open5nippet">
-    <img src="https://komarev.com/ghpvc/?username=open5nippet&label=Profile%20views&color=00FFFF&style=flat-square" alt="open5nippet's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=open5nippet&label=Profile%20views&color=00FFFF&style=flat-square" alt="open5nippet profile views" />
   </a>
 </p>
 
@@ -42,11 +42,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://stats.pphat.top/languages?username=open5nippet" alt="Dynamic top languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=open5nippet&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=open5nippet&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub activity graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=open5nippet&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 </p>
 
 ## 📊 GitHub Stats & Trophies
@@ -60,10 +60,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=open5nippet&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ayush Kumar's GitHub Trophies" />
 </p>
-
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 ## 🛠️ Languages & Tools
 
@@ -125,12 +121,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/open5nippet">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=open5nippet&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🔗 Connect with Me
