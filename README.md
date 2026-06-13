@@ -39,6 +39,16 @@
 - Computer Vision
 - IoT & Hardware Prototyping
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=open5nippet" alt="Dynamic top languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=open5nippet&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub activity graph" />
+</p>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/open5nippet">
