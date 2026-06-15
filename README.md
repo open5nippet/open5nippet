@@ -69,18 +69,17 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=open5nippet&cache_seconds=0&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=open5nippet&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=0" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=open5nippet&theme=tokyonight&hide_border=true&cache_seconds=0&border_radius=10&count_private=true" alt="GitHub Streak" width="60%" />
 </p>
-
+<p align="center">
+  <img height="180em" src="https://my-readme-stats-olive-seven.vercel.app/api?username=open5nippet&cache_seconds=0&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" />
+  &nbsp;
+  <img height="180em" src="https://my-readme-stats-olive-seven.vercel.app/api/top-langs/?username=open5nippet&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=0" alt="Top Languages" />
+</p>
 ---
 
 ## 🗓️ Contribution Graph
