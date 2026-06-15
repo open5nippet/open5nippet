@@ -20,7 +20,7 @@
 
 ## 📌 About Me
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table>
 <tr>
 <td valign="top" width="68%">
 
@@ -74,12 +74,12 @@
 </p>
 
 <p align="center">
-  <a href="https://skyline.github.com/open5nippet/2026">
-    <img src="https://img.shields.io/badge/🏔️%20View%202026%20Skyline-7c3aed?style=for-the-badge&logoColor=white" alt="GitHub Skyline 2026" />
+  <a href="https://github.com/open5nippet?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/📅%20View%202026%20Contributions-7c3aed?style=for-the-badge&logoColor=white" alt="2026 Contributions" />
   </a>
   &nbsp;
-  <a href="https://skyline.github.com/open5nippet/2025">
-    <img src="https://img.shields.io/badge/🏔️%20View%202025%20Skyline-4f46e5?style=for-the-badge&logoColor=white" alt="GitHub Skyline 2025" />
+  <a href="https://github.com/open5nippet?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/📅%20View%202025%20Contributions-4f46e5?style=for-the-badge&logoColor=white" alt="2025 Contributions" />
   </a>
 </p>
 
@@ -148,7 +148,7 @@
 <h3 align="center">Hardware & IoT</h3>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Raspberry_Pi_Logo.svg/100px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" />
 </p>
 
 <h3 align="center">Tools</h3>
