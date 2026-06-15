@@ -18,7 +18,11 @@
 
 ---
 
-## 📌 About Me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Code Loop" align="right" width="220" />
+## 📌 About Me
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="68%">
 
 - 🔭 Building **AeroFleet** — an AI-powered dashcam & fleet management platform
 - 🌱 Learning advanced **computer vision** with YOLOv8 & local LLM deployment
@@ -27,7 +31,12 @@
 - 💬 Ask me about **Python, Data Science**, and balancing a startup with B.Tech!
 - 🎓 B.Tech CSE + Data Science @ **K.R. Mangalam University** (Sem 3)
 
-<br clear="right"/>
+</td>
+<td valign="top" align="right" width="32%">
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Code Loop" width="200" style="border-radius:8px;" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,16 +44,16 @@
 
 <table>
   <tr>
-    <td align="center">🌐<br/><b>Full-Stack Web Dev</b></td>
-    <td align="center">🤖<br/><b>AI & Data Science</b></td>
-    <td align="center">👁️<br/><b>Computer Vision</b></td>
-    <td align="center">🔌<br/><b>IoT & Hardware</b></td>
+    <td align="center">🏗️<br/><b>Full-Stack Engineering</b></td>
+    <td align="center">🤖<br/><b>Machine Learning & Data Science</b></td>
+    <td align="center">👁️<br/><b>Computer Vision Systems</b></td>
+    <td align="center">🔌<br/><b>IoT & Embedded Systems</b></td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=open5nippet&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Ayush's GitHub Stats" />
@@ -56,25 +65,21 @@
   <img src="https://streak-stats.demolab.com/?user=open5nippet&theme=tokyonight&hide_border=true&cache_seconds=86400&border_radius=10" alt="GitHub Streak" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=open5nippet&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-
 ---
 
-## 🗓️ Contribution Calendar
+## 🗓️ Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/open5nippet" alt="open5nippet's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=open5nippet&theme=tokyo-night&hide_border=true&area=true&custom_title=Ayush%27s%20Contribution%20Graph" alt="Ayush's GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://skyline.github.com/open5nippet/2025">
-    <img src="https://img.shields.io/badge/View%202025%20Skyline-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2025" />
+  <a href="https://skyline.github.com/open5nippet/2026">
+    <img src="https://img.shields.io/badge/🏔️%20View%202026%20Skyline-7c3aed?style=for-the-badge&logoColor=white" alt="GitHub Skyline 2026" />
   </a>
   &nbsp;
-  <a href="https://skyline.github.com/open5nippet/2024">
-    <img src="https://img.shields.io/badge/View%202024%20Skyline-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2024" />
+  <a href="https://skyline.github.com/open5nippet/2025">
+    <img src="https://img.shields.io/badge/🏔️%20View%202025%20Skyline-4f46e5?style=for-the-badge&logoColor=white" alt="GitHub Skyline 2025" />
   </a>
 </p>
 
